@@ -1,0 +1,6 @@
+1. on a wide screen it is a two column layout
+(flex or float)
+2. the list under the sign in is scrollable.
+3. the website title is in the left column 
+for wider screen and on the right for less
+wider screen.
